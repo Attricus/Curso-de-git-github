@@ -1,3 +1,2 @@
 print("Nuevo Hola mundo")
-print("que tal")
-
+print("que tal como va todo")
