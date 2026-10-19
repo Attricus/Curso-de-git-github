@@ -1,2 +1,6 @@
 **/Notas del curso de Mouredev.docx
 **/github-git-cheat-sheet.pdf
+.venv/
+__pycache__/
+*.pyc
+.~lock.*
